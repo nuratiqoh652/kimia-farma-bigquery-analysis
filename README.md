@@ -1,2 +1,6 @@
-# kimia-farma-bigquery-analysis
-BigQuery SQL analysis for Kimia Farma dataset
+# Kimia Farma BigQuery Analysis
+
+This repository contains SQL queries used to analyze the Kimia Farma dataset using Google BigQuery.
+
+File:
+- query_analisa.sql → SQL script for creating analysis table.
